@@ -1,1 +1,1 @@
-print("PACKAGE Math")
+__all__ = ['simple.py']

@@ -1,0 +1,5 @@
+Hello
+This is my new file
+This file is for the read line
+Run once more
+Haha you fell for the trap
